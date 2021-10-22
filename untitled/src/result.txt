@@ -1,0 +1,9 @@
+2	аааа
+1	иииии
+2	ппппп
+EOF
+1	dsdfsd
+1	dsfsdf
+2	ffff
+2	aaaa
+EOF
